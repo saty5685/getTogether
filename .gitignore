@@ -1,0 +1,9 @@
+# Build artifacts and temporary files
+**/build/
+**/target/
+
+# IDE and OS specific files
+.eclipse/
+.project
+.classpath
+
